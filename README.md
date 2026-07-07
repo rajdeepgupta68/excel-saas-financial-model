@@ -8,7 +8,7 @@ A dynamic financial model built in Microsoft Excel for a fictional SaaS startup,
  
 ## Overview
  
-This project simulates a full financial planning cycle for a SaaS business — from raw assumptions through to a live KPI dashboard and sensitivity analysis. The model is driven by a single scenario dropdown (Best / Base / Worst) that cascades across every sheet automatically.
+This project simulates a full financial planning cycle for a SaaS business - from raw assumptions through to a live KPI dashboard and sensitivity analysis. The model is driven by a single scenario dropdown (Best / Base / Worst) that cascades across every sheet automatically.
  
 Built as a portfolio project to demonstrate financial modelling, advanced Excel skills, and business domain knowledge relevant to Data Analyst roles.
  
@@ -16,19 +16,19 @@ Built as a portfolio project to demonstrate financial modelling, advanced Excel 
  
 ## Features
  
-- **Dynamic Scenario Engine** — Best / Base / Worst case toggle updates the entire model in real time using `CHOOSE` and `MATCH` logic
-- **SaaS P&L Model** — 12-month Profit & Loss with MRR growth, churn rate, cost creep simulation, and tax calculation
-- **Cash Flow Statement** — Operating, investing, and financing activities with rolling monthly closing balance
-- **KPI Dashboard** — Headline metrics, monthly Revenue vs Net Income combo chart, and Gross Margin % trend line
-- **Variance Analysis** — Budget vs Actuals comparison with conditional formatting (favourable/unfavourable indicators)
-- **Sensitivity Heat Map** — 4×4 matrix showing Net Income across 16 combinations of revenue growth rate and COGS %, colour-scaled from green (profitable) to red (loss-making)
+- **Dynamic Scenario Engine** - Best / Base / Worst case toggle updates the entire model in real time using `CHOOSE` and `MATCH` logic
+- **SaaS P&L Model** - 12-month Profit & Loss with MRR growth, churn rate, cost creep simulation, and tax calculation
+- **Cash Flow Statement** - Operating, investing, and financing activities with rolling monthly closing balance
+- **KPI Dashboard** - Headline metrics, monthly Revenue vs Net Income combo chart, and Gross Margin % trend line
+- **Variance Analysis** - Budget vs Actuals comparison with conditional formatting (favourable/unfavourable indicators)
+- **Sensitivity Heat Map** - 4×4 matrix showing Net Income across 16 combinations of revenue growth rate and COGS %, colour-scaled from green (profitable) to red (loss-making)
 ---
  
 ## Sheets
  
 | Sheet | Description |
 |---|---|
-| `Assumptions` | Master input sheet — scenario selector and all model drivers |
+| `Assumptions` | Master input sheet - scenario selector and all model drivers |
 | `P&L` | 12-month SaaS Profit & Loss statement |
 | `CashFlow` | Operating, investing, and financing cash flow |
 | `Dashboard` | Visual KPI summary and charts |
@@ -64,7 +64,7 @@ Built as a portfolio project to demonstrate financial modelling, advanced Excel 
 ## How to Use
  
 1. Download `SaaS_Financial_Model_Rajdeep.xlsx`
-2. Open in Microsoft Excel (desktop — some features require desktop app)
+2. Open in Microsoft Excel (desktop - some features require desktop app)
 3. Navigate to the `Assumptions` sheet
 4. Use the **Scenario dropdown in cell C1** to switch between Best / Base / Worst
 5. Watch the P&L, Cash Flow, Dashboard, and Variance sheets update automatically
@@ -81,12 +81,9 @@ The churn vs growth dynamic was a deliberate modelling choice — in SaaS, a hig
  
 ## Author
  
-**Rajdeep**
-MSc Artificial Intelligence — Loughborough University
-[LinkedIn](#) | [GitHub](#) | [Portfolio](#)
+**Rajdeep Gupta**
+MSc Artificial Intelligence - Loughborough University
  
 ---
  
-## License
- 
-MIT License — see `LICENSE` file for details.
+
