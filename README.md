@@ -75,7 +75,7 @@ Built as a portfolio project to demonstrate financial modelling, advanced Excel 
  
 This model was built as part of a data analytics portfolio targeting Data Analyst roles. The fictional business is a B2B SaaS startup in its first year of operation, pre-Series A, with seed funding of £100,000.
  
-The churn vs growth dynamic was a deliberate modelling choice — in SaaS, a high growth rate can mask underlying retention problems. The sensitivity table surfaces exactly which combinations of growth and cost structure produce a viable business.
+The churn vs growth dynamic was a deliberate modelling choice - in SaaS, a high growth rate can mask underlying retention problems. The sensitivity table surfaces exactly which combinations of growth and cost structure produce a viable business.
  
 ---
  
